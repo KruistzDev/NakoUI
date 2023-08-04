@@ -1,0 +1,11 @@
+button {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	border-radius: 6px;
+	border: none;
+	opacity: 1;
+	padding: 6px 10px;
+	font-size: 14px;
+	font-weight: 500;
+}
