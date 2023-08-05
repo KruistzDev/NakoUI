@@ -2,11 +2,12 @@ button {
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	appearance: none;
-	border-radius: 6px;
+	border-radius: 5px;
 	border: none;
 	opacity: 1;
 	padding: 6px 10px;
 	font-size: 14px;
 	font-weight: 500;
-	background-color: FAFAFA;
+	background: #EEEEEE;
+	color: black;
 }
